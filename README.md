@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshini
-- 👀 I’m a web developer in Angular
-- 🌱 Looking to become a skilled frontend dev across frameworks!
+- 👀 I’m a full stack developer in Angular and NodeJS
+- 🌱 Looking to become a skilled dev across frameworks!
 
 
 <!---
