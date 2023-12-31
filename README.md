@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshini
-- 👀 I’m a full stack developer in Angular and NodeJS
+- 👀 I’m a full stack developer in Angular, React and NodeJS
 - 🌱 Looking to become a skilled dev across frameworks!
 
 
